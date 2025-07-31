@@ -600,7 +600,8 @@ text-decoration: none;
                 transition: 0.1s ease;
                 
 }
-@media-query and(max-width: 768)
+@media-query and(max-width: 768){
         body{
                         background-color: white;
+}
 }
